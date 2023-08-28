@@ -1,4 +1,4 @@
-## Website Design
+## FINAL PROPOSAL
 - create a website for the Music Instiute of Chicago with the goal to help attract patrons, donors, and annual partners, and promote the organization.
 - It will also help promote their annual gala to raise funds. 
 - The website will include:
