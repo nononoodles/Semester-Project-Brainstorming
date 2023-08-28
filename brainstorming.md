@@ -1,5 +1,5 @@
 # SEMESTER PROJECT BRAINSTORMING
-## Initial Brainstomring Session
+## Initial Brainstorming Session
 
 CODING AND PROGRAMMING:
 Idea: Create a program that allows school’s Career and Technical Education Department to
