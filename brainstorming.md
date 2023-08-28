@@ -50,5 +50,5 @@ The website should include the following elements:
 - create for Music Institute of Chicago - trying to get more funding for fine arts in the Chicagoland area.
 - code in Replit
 
-## FINAL PROPOSAL
+## FINAL PROPOSA
 
