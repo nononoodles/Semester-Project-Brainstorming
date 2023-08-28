@@ -49,6 +49,3 @@ The website should include the following elements:
   - not create live websites without permission from the non-profit organization
 - create for Music Institute of Chicago - trying to get more funding for fine arts in the Chicagoland area.
 - code in Replit
-
-## FINAL PROPOSA
-
